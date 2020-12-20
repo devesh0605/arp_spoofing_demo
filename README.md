@@ -28,3 +28,12 @@ Wireshark is a free and open-source packet analyzer. It is used for network trou
 
 ## Step 7: 
 <img width="50%" src="https://github.com/devesh0605/arp_spoofing_demo/blob/master/Step%207.png" alt="Image 7">
+
+## Step 8: 
+<img width="50%" src="https://github.com/devesh0605/arp_spoofing_demo/blob/master/Step%208.png" alt="Image 8">
+
+## Step 9: 
+<img width="50%" src="https://github.com/devesh0605/arp_spoofing_demo/blob/master/Step%209.png" alt="Image 9">
+
+## Step 10: 
+<img width="50%" src="https://github.com/devesh0605/arp_spoofing_demo/blob/master/Step%2010.png" alt="Image 10">
